@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Naveen Peddabuddi</h1>
 
-<h3 align="center">Self-Learner with a lot of passionate for Web development with keen interest on making user centric websites.</h3>
+<h3 align="center">Self-Learner with a lot of passionate for Web development with keen interest in making user centric websites.</h3>
 
 - 🌱 I’m currently learning **React and React Native.**
 
