@@ -9,7 +9,7 @@
 - 📫 How to reach me **NKrishvi1@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1fmL3FxnsfI_mfBqu2nY2rZcl1b6c7L0a/view?usp=sharing](https://drive.google.com/file/d/1fmL3FxnsfI_mfBqu2nY2rZcl1b6c7L0a/view?usp=sharing)
-
+- <a href="https://fervent-mcclintock-14d0ab.netlify.app/"> Portfolio </a>
 <h3 align="left">Connect with me:</h3>
 <!-- <div style="display:flex"> -->
 <p align="left">
